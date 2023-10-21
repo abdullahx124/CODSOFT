@@ -15,7 +15,7 @@ CODSOFT is a leader in the field of Machine Learning and Artificial Intelligence
 ## Stay Connected
 
 - 🌐 **Follow** this repository to stay updated on my progress and the latest developments in my internship projects.
-- 📫 **Connect** with me on [LinkedIn](https://www.linkedin.com/in/abdullah-abu-abdullah-muhammad-zubair-577bb3218/) for more in-depth discussions and networking opportunities.
+- 📫 **Connect** with me on LinkedIn https://www.linkedin.com/in/abdullah-abu-abdullah-muhammad-zubair-577bb3218/ for more in-depth discussions and networking opportunities.
 
 I'm thrilled to have you join me on this adventure as I explore the world of machine learning at CODSOFT. Together, let's learn, innovate, and make a difference! 🤖✨
 
